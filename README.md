@@ -5,13 +5,13 @@
 <p>
 
 <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/languages/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/languages/swift.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top margin:6px 4px">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top margin:6px 4px">
   </a>  
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
