@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 ### Languages and Frameworks
