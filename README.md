@@ -13,8 +13,6 @@
     <img src="svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="svg/dev/languages/swift.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="svg/dev/frameworks/react.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/frameworks/react-native@3x.png" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="svg/dev/frameworks/react-native.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
