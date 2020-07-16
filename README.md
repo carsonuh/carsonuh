@@ -1,8 +1,8 @@
 
 
 ### Languages and Frameworks
-![html](react.svg?raw=true)
-![html](svg/dev/languages/html.svg?raw=true)
+![html](png/dev/languages/html.png)
+![html](svg/dev/frameworks/react-native@3x.jpg?raw=true)
 ![java](svg/dev/languages/java.svg)
 ![jd](svg/dev/languages/js.svg)
 ![php](svg/dev/languages/php.svg)
